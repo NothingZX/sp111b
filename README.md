@@ -1,5 +1,3 @@
-https://github.com/NothingZX/sp111b/wiki
-
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
